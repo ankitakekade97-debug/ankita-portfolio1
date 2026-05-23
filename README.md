@@ -1,4 +1,4 @@
 # ankita-portfolio1
-This is my first Git Repository.
+html css portfolio frontend web-development responsive-design student-project ui-design.
 <br>
 Author - Ankita Kekade
